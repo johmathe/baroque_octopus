@@ -1,6 +1,6 @@
 # Brain/Data dump
 
-Raw/Rought dump after thoughts, dicsussions, project ideas.
+Raw/rough dump after thoughts, dicsussions, project ideas.
 
 ## Random Ideas
 - First principles applied to
