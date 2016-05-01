@@ -58,3 +58,4 @@ Raw/rough dump after thoughts, dicsussions, project ideas.
 - https://en.wikipedia.org/wiki/Schulze_method
 - http://wiki.dimsumlabs.com/w/Liquid_Feedback
 - https://www.youtube.com/watch?v=fg0_Vhldz-8
+- http://www.lafabriquedelaloi.fr/
