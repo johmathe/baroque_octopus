@@ -58,3 +58,5 @@ Raw/rough dump after thoughts, dicsussions, project ideas.
 - http://wiki.dimsumlabs.com/w/Liquid_Feedback
 - https://www.youtube.com/watch?v=fg0_Vhldz-8
 - http://www.lafabriquedelaloi.fr/
+- http://lab.medialab.sciences-po.fr/
+- https://www.legifrance.gouv.fr/
