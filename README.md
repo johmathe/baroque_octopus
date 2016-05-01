@@ -51,7 +51,6 @@ Raw/rough dump after thoughts, dicsussions, project ideas.
 - Markov Chain Monte Carlo http://stanford.edu/class/ee365/lectures/structure.pdf
 - Deep Learning
 - Hidden Markov Models http://stanford.edu/class/ee365/lectures/hmm.pdf
-- 
 
 # Links
 - http://www.strategie.gouv.fr/
