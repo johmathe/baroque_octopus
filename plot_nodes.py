@@ -51,6 +51,7 @@ def get_url_and_files_from_dates(start_date, end_date):
     files_to_download = []
     for date in daterange(start_date, end_date):
         for hour in range(3, 27, 3):
+            current_date = date + timedelta(hours=hour)
             filename = date.strftime('gfs_4_%%Y%%m%%d_0000_%03d.grb2' % hour)
             uri = ('data/gfs4/%%Y%%m/%%Y%%m%%d/%s' % filename)
             str_fmt = '%s/%s' % (NOAA_SERVER, uri)
