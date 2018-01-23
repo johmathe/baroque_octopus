@@ -35,8 +35,8 @@ matrix matrixMult(const matrix x, const matrix y) {
 }
 
 int main(int argc, const char* argv[]) {
-  matrix a = matrix({{2, -2}, {2, 2}});
-  matrix b = matrix({{0, 0}, {0, 1}});
+  auto a = matrix({{2, -2}, {2, 2}});
+  auto b = matrix({{0, 0}, {0, 1}});
   printMatrix(a);
   printMatrix(b);
   matrix product = matrixMult(a, b);
