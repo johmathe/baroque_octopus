@@ -24,11 +24,9 @@ matrix matrixMult(const matrix x, const matrix y) {
   matrix product(rows_x, vector<double>(cols_y));
   for (auto row = 0; row < rows_x; ++row) {
     for (int col = 0; col < cols_y; ++col) {
-      auto jai_le_sum = 0.0;
       for (int k = 0; k < cols_x; ++k) {
-        jai_le_sum += x[row][k] * y[k][col];
+        product[row][col] += x[row][k] * y[k][col];
       }
-      product[row][col] = jai_le_sum;
     }
   }
   return product;
